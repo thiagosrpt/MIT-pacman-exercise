@@ -34,9 +34,6 @@ var posX = 0;
 
 
 
-
-
-
     function Run() {
         let img = document.getElementById("PacMan");
         let imgWidth = img.width
