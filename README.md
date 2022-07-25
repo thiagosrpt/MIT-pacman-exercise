@@ -1,4 +1,4 @@
-# Move Pacmen
+# Move Pacman
 
 MIT's Full Stack Development Course Exercise: Exercise propsal is to move pacman across the screen within the Browser's window boudaries.
 
