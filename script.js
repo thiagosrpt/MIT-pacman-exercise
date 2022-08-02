@@ -1,10 +1,10 @@
 var posX = 0;
     var posY = 0;
     const pacArray = [
-        ['PacMan1.png', 'PacMan2.png'], //left-right
-        ['PacMan3.png', 'PacMan4.png'], //right-left
-        ['PacMan5.png', 'PacMan6.png'], //top-down
-        ['PacMan7.png', 'PacMan8.png'], //down-top
+        ['images/PacMan1.png', 'images/PacMan2.png'], //left-right
+        ['images/PacMan3.png', 'images/PacMan4.png'], //right-left
+        ['images/PacMan5.png', 'images/PacMan6.png'], //top-down
+        ['images/PacMan7.png', 'images/PacMan8.png'], //down-top
     ];
     var direction = 0;
     var focus = 0;

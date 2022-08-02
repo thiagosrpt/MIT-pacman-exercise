@@ -17,7 +17,7 @@ MIT's Full Stack Development Course Exercise: Exercise propsal is to move pacman
     <img src="https://github.com/thiagosrpt/MIT-pacman-exercise/blob/f75f1fcb999491277e5d168dea2a8f7dfbdb0fd5/PacMan8.png" height="50">
 <p>
 
-<img src="https://github.com/thiagosrpt/MIT-pacman-exercise/blob/f75f1fcb999491277e5d168dea2a8f7dfbdb0fd5/illustration-app-mit-exercise.png" height="300">
+<img src="https://github.com/thiagosrpt/MIT-pacman-exercise/blob/895e3ee25e325a82283d2cf4c4d0fa9fcb455aae/illustration-app-mit-exercise.png" height="300">
 
 ## Description
 
