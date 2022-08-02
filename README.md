@@ -35,7 +35,15 @@ The highlights of this exercise are:
 
 - Download and open index.html on Chrome, Edge, Firefox, or Safari.
 
-### Installing
+### How to Run
 
 * Download files
 * Open index.html on the browser of your choice.
+
+### Roadmap of future improvements
+- Make pacman move based on uses input (arrow up, down, left, right).
+- Make pacman detected objects on the screen.
+
+### License information
+MIT License - Copyright (c) 2020 John Williams
+<a href="https://github.com/thiagosrpt/MIT-pacman-exercise/blob/87a5ea1cd09f999ffcfd9cd67f6284c40a78db91/LICENSE">License link</a>
