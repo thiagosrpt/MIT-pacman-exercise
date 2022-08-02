@@ -1,6 +1,6 @@
-# Move Pacmen
+# Move Pacman
 
-MIT's Full Stack Development Course Exercise: Exercise propsal is to move pacman across the screen within the Browser's window boudaries.
+MIT's Full Stack Development Course Assignment: Assignment Proposal is to move pacman across the screen within the Browser's window boudaries.
 
 - In addition to the proposed extercise I implemented the following:
 * Pacman will be limited to Browser's window limites (height and width).
@@ -17,7 +17,11 @@ MIT's Full Stack Development Course Exercise: Exercise propsal is to move pacman
     <img src="https://github.com/thiagosrpt/MIT-pacman-exercise/blob/f75f1fcb999491277e5d168dea2a8f7dfbdb0fd5/PacMan8.png" height="50">
 <p>
 
+<<<<<<< HEAD
 <img src="https://github.com/thiagosrpt/MIT-pacman-exercise/blob/895e3ee25e325a82283d2cf4c4d0fa9fcb455aae/illustration-app-mit-exercise.png" height="300">
+=======
+<img src="https://github.com/thiagosrpt/MIT-pacman-exercise/blob/f510fc5781365b8d1e17e3c28802ab4ae30d3a53/illustration-app-mit-exercise.png" height="300">
+>>>>>>> 605123295b67659d0448fae0788bd58f3cf38e42
 
 ## Description
 
